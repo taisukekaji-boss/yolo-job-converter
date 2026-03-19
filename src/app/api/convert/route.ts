@@ -65,17 +65,39 @@ export async function POST(request: NextRequest) {
     }
 
     const rawText = textContent.text.trim();
-    const jsonMatch = rawText.match(/```(?:json)?\s*([\s\S]*?)```/);
-    const jsonStr = jsonMatch ? jsonMatch[1].trim() : rawText;
-    const objMatch = jsonStr.match(/(\{[\s\S]*\})/);
-    const finalStr = objMatch ? objMatch[1] : jsonStr;
+
+    // Step1: コードブロックを除去
+    const codeBlockMatch = rawText.match(/```(?:json)?\s*([\s\S]*?)```/);
+    const stripped = codeBlockMatch ? codeBlockMatch[1].trim() : rawText;
+
+    // Step2: ネスト対応のJSON抽出（最初の { から対応する } まで）
+    const extractJSON = (text: string): string | null => {
+      let depth = 0;
+      let start = -1;
+      for (let i = 0; i < text.length; i++) {
+        if (text[i] === '{') {
+          if (depth === 0) start = i;
+          depth++;
+        } else if (text[i] === '}') {
+          depth--;
+          if (depth === 0 && start !== -1) {
+            return text.slice(start, i + 1);
+          }
+        }
+      }
+      return null;
+    };
+
+    const finalStr = extractJSON(stripped) || stripped;
 
     let data;
     try {
       data = JSON.parse(finalStr);
     } catch (e) {
       console.error("JSON parse error:", e);
-      console.error("Raw text:", rawText);
+      console.error("Parse error. Raw response length:", rawText.length);
+      console.error("First 500 chars:", rawText.slice(0, 500));
+      console.error("Last 500 chars:", rawText.slice(-500));
       return NextResponse.json(
         { success: false, error: "変換結果のパースに失敗しました。別のURLを試してください。" },
         { status: 500, headers: CORS_HEADERS }
