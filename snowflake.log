@@ -1,0 +1,253 @@
+{"level":"INFO","message":"[2:25:54.385 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:25:54.388 PM]: Creating Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[2:25:54.388 PM]: Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:25:54.388 PM]: Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] - connection object created successfully."}
+{"level":"INFO","message":"[2:25:54.388 PM]: Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:25:54.391 PM]: Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:25:54.391 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:25:54.392 PM]: No client config detected."}
+{"level":"INFO","message":"[2:25:54.392 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:25:54.392 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:25:55.279 PM]: Connection[id: 9a841ce7-6a17-4a04-bbcc-3871adc2c875] - connection established successfully after 891.14 milliseconds"}
+{"level":"INFO","message":"[2:43:45.337 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:43:45.344 PM]: Creating Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[2:43:45.345 PM]: Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:43:45.345 PM]: Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] - connection object created successfully."}
+{"level":"INFO","message":"[2:43:45.345 PM]: Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:43:45.359 PM]: Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:43:45.359 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:43:45.360 PM]: No client config detected."}
+{"level":"INFO","message":"[2:43:45.360 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:43:45.360 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:43:45.808 PM]: Connection[id: 852c8aa7-85e2-47c4-8de3-79bb93f82590] - connection established successfully after 463.24 milliseconds"}
+{"level":"INFO","message":"[2:53:08.183 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:53:08.187 PM]: Creating Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[2:53:08.187 PM]: Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:53:08.187 PM]: Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] - connection object created successfully."}
+{"level":"INFO","message":"[2:53:08.187 PM]: Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:53:08.189 PM]: Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:53:08.190 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:53:08.190 PM]: No client config detected."}
+{"level":"INFO","message":"[2:53:08.190 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:53:08.190 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:53:08.627 PM]: Connection[id: 822cbf30-d03d-4673-a9ec-3a5d9b5e5f00] - connection established successfully after 440.11 milliseconds"}
+{"level":"INFO","message":"[2:58:31.686 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:58:31.690 PM]: Creating Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[2:58:31.690 PM]: Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:58:31.691 PM]: Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] - connection object created successfully."}
+{"level":"INFO","message":"[2:58:31.691 PM]: Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:58:31.692 PM]: Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:58:31.692 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:58:31.693 PM]: No client config detected."}
+{"level":"INFO","message":"[2:58:31.693 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:58:31.693 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:58:32.168 PM]: Connection[id: 1bfae692-fc1c-41ff-a3e7-b44c8b4ceea3] - connection established successfully after 477.35 milliseconds"}
+{"level":"INFO","message":"[3:21:08.899 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:21:08.903 PM]: Creating Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:21:08.903 PM]: Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:21:08.903 PM]: Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] - connection object created successfully."}
+{"level":"INFO","message":"[3:21:08.903 PM]: Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:21:08.906 PM]: Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:21:08.906 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:21:08.906 PM]: No client config detected."}
+{"level":"INFO","message":"[3:21:08.907 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:21:08.907 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:21:09.399 PM]: Connection[id: 91dde327-c7a6-4182-b23a-96f875029821] - connection established successfully after 495.41 milliseconds"}
+{"level":"INFO","message":"[3:30:50.043 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:30:50.054 PM]: Creating Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:30:50.055 PM]: Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:30:50.056 PM]: Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] - connection object created successfully."}
+{"level":"INFO","message":"[3:30:50.057 PM]: Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:30:50.062 PM]: Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:30:50.063 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:30:50.063 PM]: No client config detected."}
+{"level":"INFO","message":"[3:30:50.064 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:30:50.064 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:30:50.576 PM]: Connection[id: 5f170004-0725-4022-8f4d-4f9165014558] - connection established successfully after 518.67 milliseconds"}
+{"level":"INFO","message":"[3:34:15.151 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:34:15.155 PM]: Creating Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:34:15.155 PM]: Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:34:15.155 PM]: Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] - connection object created successfully."}
+{"level":"INFO","message":"[3:34:15.155 PM]: Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:34:15.157 PM]: Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:34:15.157 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:34:15.158 PM]: No client config detected."}
+{"level":"INFO","message":"[3:34:15.158 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:34:15.158 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:34:15.647 PM]: Connection[id: ca328da3-f462-4eea-86fc-a88309e955df] - connection established successfully after 491.92 milliseconds"}
+{"level":"INFO","message":"[3:37:18.909 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:37:18.912 PM]: Creating Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:37:18.913 PM]: Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:37:18.913 PM]: Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] - connection object created successfully."}
+{"level":"INFO","message":"[3:37:18.913 PM]: Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:37:18.915 PM]: Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:37:18.915 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:37:18.915 PM]: No client config detected."}
+{"level":"INFO","message":"[3:37:18.915 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:37:18.915 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:37:19.369 PM]: Connection[id: 74b079ae-9499-434d-bd29-11d561c969bc] - connection established successfully after 455.76 milliseconds"}
+{"level":"INFO","message":"[3:40:26.838 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:40:26.842 PM]: Creating Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:40:26.842 PM]: Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:40:26.842 PM]: Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] - connection object created successfully."}
+{"level":"INFO","message":"[3:40:26.842 PM]: Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:40:26.844 PM]: Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:40:26.844 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:40:26.845 PM]: No client config detected."}
+{"level":"INFO","message":"[3:40:26.845 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:40:26.845 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:40:27.346 PM]: Connection[id: 978ef40f-e726-4c57-93f5-5eb18c5c9163] - connection established successfully after 503.68 milliseconds"}
+{"level":"INFO","message":"[3:42:56.764 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:42:56.768 PM]: Creating Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:42:56.768 PM]: Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:42:56.768 PM]: Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] - connection object created successfully."}
+{"level":"INFO","message":"[3:42:56.768 PM]: Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:42:56.770 PM]: Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:42:56.770 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:42:56.770 PM]: No client config detected."}
+{"level":"INFO","message":"[3:42:56.770 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:42:56.771 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:42:57.202 PM]: Connection[id: 15a610e7-3ad8-43a5-9c33-e9d1c18e647c] - connection established successfully after 433.91 milliseconds"}
+{"level":"INFO","message":"[3:44:40.693 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:44:40.695 PM]: Creating Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:44:40.695 PM]: Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:44:40.695 PM]: Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] - connection object created successfully."}
+{"level":"INFO","message":"[3:44:40.695 PM]: Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:44:40.696 PM]: Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:44:40.696 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:44:40.696 PM]: No client config detected."}
+{"level":"INFO","message":"[3:44:40.696 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:44:40.696 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:44:41.164 PM]: Connection[id: 589334ee-59dd-459a-bb2d-283eba21908d] - connection established successfully after 469.55 milliseconds"}
+{"level":"INFO","message":"[3:46:57.958 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:46:57.962 PM]: Creating Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:46:57.962 PM]: Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:46:57.962 PM]: Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] - connection object created successfully."}
+{"level":"INFO","message":"[3:46:57.962 PM]: Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:46:57.964 PM]: Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:46:57.964 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:46:57.965 PM]: No client config detected."}
+{"level":"INFO","message":"[3:46:57.965 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:46:57.965 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:46:58.505 PM]: Connection[id: 7c85c133-822c-4476-8c47-abc131a6c250] - connection established successfully after 542.86 milliseconds"}
+{"level":"INFO","message":"[3:50:57.305 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:50:57.312 PM]: Creating Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:50:57.312 PM]: Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:50:57.313 PM]: Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] - connection object created successfully."}
+{"level":"INFO","message":"[3:50:57.313 PM]: Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:50:57.315 PM]: Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:50:57.316 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:50:57.318 PM]: No client config detected."}
+{"level":"INFO","message":"[3:50:57.318 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:50:57.318 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:50:57.699 PM]: Connection[id: ae447171-f73e-4084-8ebd-060f54a05837] - connection established successfully after 386.19 milliseconds"}
+{"level":"INFO","message":"[3:58:36.558 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:58:36.562 PM]: Creating Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[3:58:36.562 PM]: Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:58:36.562 PM]: Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] - connection object created successfully."}
+{"level":"INFO","message":"[3:58:36.562 PM]: Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:58:36.564 PM]: Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:58:36.564 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:58:36.565 PM]: No client config detected."}
+{"level":"INFO","message":"[3:58:36.565 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:58:36.565 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:58:37.034 PM]: Connection[id: f772d3c2-b5db-443a-99bf-583e4d178622] - connection established successfully after 471.65 milliseconds"}
+{"level":"INFO","message":"[4:39:26.549 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:39:26.556 PM]: Creating Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[4:39:26.557 PM]: Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:39:26.557 PM]: Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] - connection object created successfully."}
+{"level":"INFO","message":"[4:39:26.557 PM]: Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:39:26.560 PM]: Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:39:26.560 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:39:26.561 PM]: No client config detected."}
+{"level":"INFO","message":"[4:39:26.561 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:39:26.561 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:39:27.022 PM]: Connection[id: 554c13c3-09f8-41dd-9ab4-5c1e0b698f72] - connection established successfully after 464.93 milliseconds"}
+{"level":"INFO","message":"[11:35:25.237 AM]: Creating new connection object"}
+{"level":"INFO","message":"[11:35:25.241 AM]: Creating Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[11:35:25.241 AM]: Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:35:25.241 AM]: Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] - connection object created successfully."}
+{"level":"INFO","message":"[11:35:25.241 AM]: Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:35:25.244 AM]: Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[11:35:25.244 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:35:25.249 AM]: No client config detected."}
+{"level":"INFO","message":"[11:35:25.249 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:35:25.249 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:35:25.828 AM]: Connection[id: f9306cf2-ba31-4882-adff-9db98611148c] - connection established successfully after 586.76 milliseconds"}
+{"level":"INFO","message":"[11:41:43.426 AM]: Creating new connection object"}
+{"level":"INFO","message":"[11:41:43.434 AM]: Creating Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[11:41:43.435 AM]: Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:41:43.435 AM]: Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] - connection object created successfully."}
+{"level":"INFO","message":"[11:41:43.435 AM]: Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:41:43.440 AM]: Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[11:41:43.440 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:41:43.441 AM]: No client config detected."}
+{"level":"INFO","message":"[11:41:43.441 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:41:43.441 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:41:43.884 AM]: Connection[id: f03e0ccd-1d9c-4fb0-a40e-fb34c08ec10e] - connection established successfully after 448.68 milliseconds"}
+{"level":"INFO","message":"[12:00:26.555 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:00:26.559 PM]: Creating Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:00:26.560 PM]: Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:00:26.560 PM]: Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] - connection object created successfully."}
+{"level":"INFO","message":"[12:00:26.560 PM]: Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:00:26.563 PM]: Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:00:26.563 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:00:26.563 PM]: No client config detected."}
+{"level":"INFO","message":"[12:00:26.563 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:00:26.564 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:00:26.973 PM]: Connection[id: ff744cc4-0c62-4e06-b448-3002760e1825] - connection established successfully after 412.87 milliseconds"}
+{"level":"INFO","message":"[12:21:26.260 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:21:26.265 PM]: Creating Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:21:26.265 PM]: Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:21:26.265 PM]: Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] - connection object created successfully."}
+{"level":"INFO","message":"[12:21:26.265 PM]: Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:21:26.270 PM]: Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:21:26.271 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:21:26.271 PM]: No client config detected."}
+{"level":"INFO","message":"[12:21:26.271 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:21:26.271 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:21:26.650 PM]: Connection[id: a589a590-37f0-47fb-8eb6-aa03e900aa85] - connection established successfully after 384.74 milliseconds"}
+{"level":"INFO","message":"[12:43:51.487 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:43:51.489 PM]: Creating Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:43:51.489 PM]: Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:43:51.489 PM]: Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] - connection object created successfully."}
+{"level":"INFO","message":"[12:43:51.489 PM]: Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:43:51.492 PM]: Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:43:51.492 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:43:51.492 PM]: No client config detected."}
+{"level":"INFO","message":"[12:43:51.492 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:43:51.492 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:43:51.931 PM]: Connection[id: d54e4b05-c246-4746-85b4-adfd88708888] - connection established successfully after 441.41 milliseconds"}
+{"level":"INFO","message":"[12:44:21.767 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:44:21.770 PM]: Creating Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:44:21.770 PM]: Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:44:21.770 PM]: Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] - connection object created successfully."}
+{"level":"INFO","message":"[12:44:21.770 PM]: Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:44:21.772 PM]: Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:44:21.773 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:44:21.773 PM]: No client config detected."}
+{"level":"INFO","message":"[12:44:21.773 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:44:21.773 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:44:22.152 PM]: Connection[id: 10026bc4-31c8-410e-89e7-aef7aa734e63] - connection established successfully after 381.25 milliseconds"}
+{"level":"INFO","message":"[12:45:39.725 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:45:39.728 PM]: Creating Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:45:39.728 PM]: Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:45:39.729 PM]: Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] - connection object created successfully."}
+{"level":"INFO","message":"[12:45:39.729 PM]: Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:45:39.730 PM]: Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:45:39.730 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:45:39.731 PM]: No client config detected."}
+{"level":"INFO","message":"[12:45:39.731 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:45:39.731 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:45:40.246 PM]: Connection[id: 67d0c4e6-b0bf-432a-bfd4-41f37d9ba363] - connection established successfully after 517.24 milliseconds"}
+{"level":"INFO","message":"[12:48:37.500 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:48:37.503 PM]: Creating Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] with host: VFCNXQW-OT58552.snowflakecomputing.com, account: VFCNXQW-OT58552, accessUrl: https://VFCNXQW-OT58552.snowflakecomputing.com, user: LOCAL_KAJI_20260313, role: YOLOWORKADMIN, database: AWS, schema: YOLO_JAPAN, warehouse: YOLOWORK_WH, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: darwin, os version: 25.2.0"}
+{"level":"INFO","message":"[12:48:37.503 PM]: Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] additional details: passcode in password is provided, passcode is not provided, private key is provided, application: undefined, client name: snowflake-sdk, client version: 2.3.5, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:48:37.503 PM]: Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] - connection object created successfully."}
+{"level":"INFO","message":"[12:48:37.503 PM]: Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:48:37.507 PM]: Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:48:37.508 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:48:37.511 PM]: No client config detected."}
+{"level":"INFO","message":"[12:48:37.511 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:48:37.511 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:48:37.903 PM]: Connection[id: 7625c0b1-b728-4bf9-92f3-4970c6a8ad74] - connection established successfully after 400.25 milliseconds"}
