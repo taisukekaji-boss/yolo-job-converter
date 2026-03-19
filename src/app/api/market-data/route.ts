@@ -10,7 +10,7 @@ import { executeQuery, isSnowflakeConfigured } from '@/lib/snowflake/connection'
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Methods': 'POST, OPTIONS',
-  'Access-Control-Allow-Headers': 'Content-Type',
+  'Access-Control-Allow-Headers': 'Content-Type, X-API-Token',
 };
 
 const MONTHS_RANGE = 6;
@@ -134,6 +134,12 @@ export async function OPTIONS() {
 
 export async function POST(request: NextRequest) {
   try {
+    // トークン認証
+    const token = request.headers.get('X-API-Token');
+    if (token !== process.env.INTERNAL_API_TOKEN) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401, headers: CORS_HEADERS });
+    }
+
     const { job_category, job_group, salary_type, prefecture } = await request.json();
 
     if (!isSnowflakeConfigured()) {
